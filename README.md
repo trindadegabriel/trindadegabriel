@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Gabriel:
+# 💫 Hi! I'm Gabriel
 I’m currently working on Sequor Industrial Software as a Junior Software Developer.<br>I’m studying Information Systems at PUC Campinas<br>
 
 
