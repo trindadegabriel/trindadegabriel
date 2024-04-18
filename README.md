@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Gabriel
-I’m currently working on Sequor Industrial Software as a Junior Software Developer.<br>I’m studying Information Systems at PUC Campinas<br>
+I’m currently working on Pósitron Stoneridge as an Intern System Verification Engineer.<br>I’m studying Information Systems at PUC Campinas<br>
 
 
 ## 🌐 Socials:
