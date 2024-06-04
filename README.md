@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Gabriel
-I’m currently working on Pósitron Stoneridge as an Intern System Verification Engineer.<br>I’m studying Information Systems at PUC Campinas<br>
+I’m studying Information Systems at PUC Campinas
 
 
 ## 🌐 Socials:
